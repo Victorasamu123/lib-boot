@@ -1,0 +1,24 @@
+body{
+    height: 100vh !important;
+}
+section{
+    background-color: rgb(231,0,0) !important;
+    border: thin solid black;
+    height: 552px !important;
+}
+#div1{
+   height: 40px !important;
+   color: rgb(231,0,0) !important;
+}
+#div2{
+    height: 245px !important;
+}
+#div3{
+    height: 150px;
+}
+#end{
+    background-color: rgb(87,18,18);
+    font-size: 13px !important;
+    color: wheat !important;
+    margin: 2px;
+}
